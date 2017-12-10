@@ -56,23 +56,3 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-b:link {
-    text-decoration: none;
-    color: black;
-}
-
-b:visited {
-    text-decoration: none;
-    color: black;
-}
-
-b:hover {
-    text-decoration: underline;
-    color: black;
-}
-
-b:active {
-    text-decoration: underline;
-    color: black;
-}
