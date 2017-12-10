@@ -57,22 +57,22 @@
   display: block;
 }
 
-a:link {
+b:link {
     text-decoration: none;
     color: black;
 }
 
-a:visited {
+b:visited {
     text-decoration: none;
     color: black;
 }
 
-a:hover {
+b:hover {
     text-decoration: underline;
     color: black;
 }
 
-a:active {
+b:active {
     text-decoration: underline;
     color: black;
 }
